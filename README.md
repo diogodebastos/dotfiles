@@ -20,5 +20,5 @@
 ### Ranger
 .config/ranger
 
-### Walpaper
+### Wallpaper
 http://wallpaperget.com/images/anime-wallpaper-21.jpg
