@@ -1,0 +1,19 @@
+Host lnlip01
+    HostName lnlip01.lip.pt
+    User dbastos
+
+Host fermi
+    HostName fermi.ncg.ingrid.pt
+    User dbastos
+
+Host pauli
+    HostName pauli.ncg.ingrid.pt
+    User dbastos
+
+Host cms15
+    HostName cms15.lip.pt
+    User dbastos
+
+Host lxplus
+    HostName lxplus.cern.ch
+    User dchasque
