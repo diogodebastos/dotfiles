@@ -6,7 +6,7 @@
  - xrandr
  - pavucontrol
  - rofi
- - i3lock-fancy: khttps://github.com/meskarune/i3lock-fancy
+ - i3lock-fancy: https://github.com/meskarune/i3lock-fancy
 - zsh (af-magic theme)
 - ranger
 - spaceVim
