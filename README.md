@@ -6,6 +6,7 @@
  - xrandr
  - pavucontrol
  - rofi
+ - i3lock-fancy: khttps://github.com/meskarune/i3lock-fancy
 - zsh (af-magic theme)
 - ranger
 - spaceVim
@@ -16,4 +17,8 @@
 .config/i3/config
 /usr/share/i3blocks
 
-### Vim
+### Ranger
+.config/ranger
+
+### Walpaper
+http://wallpaperget.com/images/anime-wallpaper-21.jpg
